@@ -214,11 +214,4 @@ Cron automation
 
 Email alerting for production systems
 
-It is suitable for DevOps internships, cloud automation portfolios, and CI/CD engineering roles.
-
-Author
-
-Siddesh Kale
-Email: siddeshkale25aug@gmail.com
-
 Cloud & DevOps | Automation | CI/CD |
